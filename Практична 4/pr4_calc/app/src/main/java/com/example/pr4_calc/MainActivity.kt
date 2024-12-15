@@ -37,7 +37,7 @@ class MainActivity : ComponentActivity() {
             Pr4_calcTheme {
                 val navController = rememberNavController()
                 val calculator = Calc()
-                Scaffold(modifier = Modifier.padding(60.dp, 200.dp)) { innerPadding ->
+                Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     NavHost(
                         navController = navController,
                         startDestination = Routes.MAIN_SCREEN.name,
