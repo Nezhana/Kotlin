@@ -41,7 +41,7 @@ fun Calculator2Screen(
 
         val I0 = calculator.I0(double_S_k)
 
-        result = "Summary: $I0"
+        result = "I: $I0 А"
     }
 
     Column(modifier = Modifier.padding(60.dp, 120.dp),
