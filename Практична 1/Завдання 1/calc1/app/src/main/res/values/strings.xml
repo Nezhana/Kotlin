@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calc1</string>
+
+    <string name="Title">Enter components values</string>
+    <string name="SubmitBtnText">Submit</string>
+
+    <string name="Hp_text">Hp %</string>
+    <string name="Cp_text">Cp %</string>
+    <string name="Sp_text">Sp %</string>
+    <string name="Np_text">Np %</string>
+    <string name="Op_text">Op %</string>
+    <string name="Wp_text">Wp %</string>
+    <string name="Ap_text">Ap %</string>
+
+    <string name="Hp_Input">Hp value</string>
+    <string name="Cp_Input">Cp value</string>
+    <string name="Sp_Input">Sp value</string>
+    <string name="Np_Input">Np value</string>
+    <string name="Op_Input">Op value</string>
+    <string name="Wp_Input">Wp value</string>
+    <string name="Ap_Input">Ap value</string>
+</resources>

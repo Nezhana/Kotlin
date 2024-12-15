@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calc2</string>
+
+    <string name="Title">Enter components values</string>
+    <string name="SubmitBtnText">Submit</string>
+
+    <string name="Hg_text">Hg %</string>
+    <string name="Cg_text">Cg %</string>
+    <string name="Sg_text">Sg %</string>
+    <string name="Ng_text">Ng %</string>
+    <string name="Og_text">Og %</string>
+    <string name="Wr_text">Wr %</string>
+    <string name="Ac_text">Ac %</string>
+    <string name="Qg_text">Qg\nМДж/кг</string>
+    <string name="Vc_text">Vc\nмг/кг</string>
+
+    <string name="Hg_Input">Hg value</string>
+    <string name="Cg_Input">Cg value</string>
+    <string name="Sg_Input">Sg value</string>
+    <string name="Ng_Input">Ng value</string>
+    <string name="Og_Input">Og value</string>
+    <string name="Wr_Input">Wr value</string>
+    <string name="Ac_Input">Ac value</string>
+    <string name="Qg_Input">Qg value</string>
+    <string name="Vc_Input">Vc value</string>
+</resources>
