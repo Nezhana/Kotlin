@@ -82,7 +82,7 @@ fun Calculator1Screen(
         result = "Summary: $s"
     }
 
-    Column(modifier = Modifier.padding(60.dp, 120.dp),
+    Column(modifier = Modifier.padding(60.dp, 100.dp),
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally) {
         Text(
@@ -143,7 +143,7 @@ fun Calculator1Screen(
             Text("Result: $result")
         }
         Row(
-            modifier = Modifier.padding(top = 30.dp)
+            modifier = Modifier.padding(top = 10.dp)
         ) {
             Button(
                 onClick = goBack
