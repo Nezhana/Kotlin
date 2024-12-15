@@ -79,7 +79,7 @@ fun Calculator1Screen(
                                         int_T_m)
         val s = calculator.get_s(s_min)
 
-        result = "Summary: $s"
+        result = "s: $s мм^2"
     }
 
     Column(modifier = Modifier.padding(60.dp, 100.dp),
