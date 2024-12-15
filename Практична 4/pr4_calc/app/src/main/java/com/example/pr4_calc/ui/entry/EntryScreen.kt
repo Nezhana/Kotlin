@@ -11,7 +11,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 
 
-val buttonStyles = Modifier.padding(all = 30.dp)
+val buttonStyles = Modifier.padding(90.dp, 300.dp)
 
 @Composable
 fun EntryScreen(
